@@ -32,3 +32,8 @@ To make our dataset suitable for analysis, we need to clean and transform datase
  ## Dashboard visualization 
  This provide valuable insight as to the factors influencing customer churn based on various demographic and banking behavior attributes.
 ## Recommendation
+## Author
+[Rosemary ihemeje](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B202xL14xR76Trgbi2YEolw%3D%3D)
+
+## License
+This project is licensed under the Datafied Technologies License - see the LICENSE file for details.
