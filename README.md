@@ -10,12 +10,12 @@ The financial services industry's ecosystem is dynamic and multidimensional, cha
  ## Data sourcing
 The churn database was provided by a bank in Canada containing information on 10,000 bank customers over six months. 
 ## Files 
-- Churn_data Heroes.google_sheet: Contains dataset used for transformation and visualization
+- Churn_data Heroes.pbix: Contains dataset used for transformation and visualization
 - Data_Dictionary.gd: Documentation describing the structure and contents of each table in the dataset.
 - dashboard: provide valuable insight as to the factors influencing customer churn
 - README.md: This file, provides an overview of the repository and instructions for transforming and visualizing data
 
-Click 👉 here 👈to see these files.
+Click 👉 [here](https://drive.google.com/drive/folders/1Dv3KHHDefV7-OlzdBe15KhS3redqZ_gE?usp=sharing) 👈to see these files.
 ## Data transformation and cleaning 
 To make our dataset suitable for analysis, we need to clean and transform dataset by:
 - Creating a new conditional credit score column where credit score of 0-499 is very poor, 500-600 is poor, 601-660 is fair, 661-780 id good and 781-850 is excellent
