@@ -37,6 +37,7 @@ To make our dataset suitable for analysis, we need to clean and transform datase
  - The churn rate
  ## Dashboard visualization 
  This provide valuable insight as to the factors influencing customer churn based on various demographic and banking behavior attributes.
+ 
  <img width="614" alt="Screenshot 2024-05-15 155749" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/cd03049c-e710-44a8-9742-db09080532b6">
 
 ## Recommendation
