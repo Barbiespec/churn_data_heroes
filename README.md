@@ -1,4 +1,6 @@
 # Churn_data_heroes
+<img width="333" alt="Screenshot 2024-05-15 155327" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/988e43ee-f1bf-44fa-9e5c-4456dac490f9">
+
 ## Introduction
 The financial services industry's ecosystem is dynamic and multidimensional, characterized by a complex interplay of factors that influence consumer behaviors. In this complex environment, the ability to retain customers is more than a strategic advantage; it is a requirement for long-term growth and sustainability. The inherent challenges of customer attrition for financial institutions include substantial revenue loss and the erosion of brand loyalty.
 ## Problem statement
@@ -22,8 +24,12 @@ To make our dataset suitable for analysis, we need to clean and transform datase
 - Adding a new column titlled "estimated_salary" and categorizing individuals salary from 0-66575 as lower class, 66576-133150 as middle class, 131151-199725 as first class
 - Creating a new column titled "churned_" where those that churn is "yes" and those that did not churn is "no"
   ## Dataset before cleaning and transformation
+  <img width="944" alt="Screenshot 2024-05-15 155528" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/68dbb4e3-183a-41fb-a948-bdc1af2a89e3">
+
   ## Dataset after cleaning and transformation
  The datasets are now suitable for analysis and easy visualisation after cleaning and transforming the dataset
+ <img width="620" alt="Screenshot 2024-05-15 160420" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/e9100b7e-d6a3-45a2-844b-f367122fb7e6">
+
  ## Dax
  The formula language was used to calculate
  - The total number of people that churned
@@ -31,6 +37,8 @@ To make our dataset suitable for analysis, we need to clean and transform datase
  - The churn rate
  ## Dashboard visualization 
  This provide valuable insight as to the factors influencing customer churn based on various demographic and banking behavior attributes.
+ <img width="614" alt="Screenshot 2024-05-15 155749" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/cd03049c-e710-44a8-9742-db09080532b6">
+
 ## Recommendation
 ## Author
 [Rosemary ihemeje](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B202xL14xR76Trgbi2YEolw%3D%3D)
