@@ -7,6 +7,13 @@ The financial services industry's ecosystem is dynamic and multidimensional, cha
 - Provide strategic recommendations for the bank based on data-driven insights.
  ## Data sourcing
 The churn database was provided by a bank in Canada containing information on 10,000 bank customers over six months. 
+## Files 
+- Churn_data Heroes.google_sheet: Contains dataset used for transformation and visualization
+- Data_Dictionary.gd: Documentation describing the structure and contents of each table in the dataset.
+- dashboard: provide valuable insight as to the factors influencing customer churn
+- README.md: This file, provides an overview of the repository and instructions for transforming and visualizing data
+
+Click 👉 here 👈to see these files.
 ## Data transformation and cleaning 
 To make our dataset suitable for analysis, we need to clean and transform dataset by:
 - Creating a new conditional credit score column where credit score of 0-499 is very poor, 500-600 is poor, 601-660 is fair, 661-780 id good and 781-850 is excellent
@@ -16,9 +23,12 @@ To make our dataset suitable for analysis, we need to clean and transform datase
 - Creating a new column titled "churned_" where those that churn is "yes" and those that did not churn is "no"
   ## Dataset before cleaning and transformation
   ## Dataset after cleaning and transformation
-  The datasets are now suitable for analysis and easy visualisation after cleaning and transforming the dataset
-  ## Dax
-  The formula language was used to calculate
-  - The total number of people that churned
-  - The distinctive count of  total number of customers
-  - The churn rate 
+ The datasets are now suitable for analysis and easy visualisation after cleaning and transforming the dataset
+ ## Dax
+ The formula language was used to calculate
+ - The total number of people that churned
+ - The distinctive count of  total number of customers
+ - The churn rate
+ ## Dashboard visualization 
+ This provide valuable insight as to the factors influencing customer churn based on various demographic and banking behavior attributes.
+## Recommendation
