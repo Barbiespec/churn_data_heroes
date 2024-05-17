@@ -43,9 +43,27 @@ To make our dataset suitable for analysis, we need to clean and transform datase
  ## Dashboard visualization 
  This provide valuable insight as to the factors influencing customer churn based on various demographic and banking behavior attributes.
  
- <img width="614" alt="Screenshot 2024-05-15 155749" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/cd03049c-e710-44a8-9742-db09080532b6">
+<img width="488" alt="Screenshot 2024-05-16 202730" src="https://github.com/Barbiespec/churn_data_heroes/assets/158063327/b3a1a4cc-7546-4faa-9557-7aacf3ee7409">
+
 
 ## Recommendation
+
+ **Segmentation Analysis**: this helps understand the characteristics and behaviors of churned customers, that were Grouped based on various attributes such as credit score ranges, tenure with the bank, geographical locations, demographics. A predictive model was developed to forecast customers that likely churned and the reason why they churned. customers with low credit score, short stay tenure with the bank, diatance from the bank churned more. other features that influence customer churn are age_grade, gender, and class. After understanding customer behaviour the following ideas are recommended:
+
+ **Credit Score Improvement Programs**: Collaborate with the bank's credit department to design programs aimed at improving customers' credit scores. Provide personalized financial advice, credit education materials, and incentives for credit score improvement.
+
+ **Customer Engagement Strategies**: Implement targeted customer engagement strategies based on segmentation analysis findings. Offer personalized promotions, discounts, or loyalty programs to incentivize longer-term relationships with the bank.
+
+ **Geographical Expansion**: Evaluate the feasibility of expanding the bank's physical presence or enhancing digital banking services in areas where customers are geographically distant. Consider partnerships with local businesses or fintech companies to improve accessibility for remote customers.
+
+ **Customer Feedback Analysis**: Analyze feedback from churned customers to identify common pain points and areas for improvement. Use sentiment analysis and natural language processing techniques to extract valuable insights from customer comments and reviews.
+
+ **Retention Campaigns**: Launch retention campaigns tailored to specific customer segments identified as high-risk for churn. Offer personalized retention offers, such as fee waivers, interest rate reductions, or exclusive banking services, to incentivize customers to stay with the bank.
+
+ **Continuous Monitoring and Evaluation**: Regularly monitor the effectiveness of implemented strategies using key performance indicators (KPIs) such as churn rate, customer satisfaction scores, and retention rates. Adjust tactics as needed based on ongoing analysis and feedback.
+
+By implementing these recommendations, the bank can leverage data-driven insights to mitigate churn, improve customer retention, and foster long-term relationships with its clientele.
+
 ## Author
 [Rosemary ihemeje](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B202xL14xR76Trgbi2YEolw%3D%3D)
 
