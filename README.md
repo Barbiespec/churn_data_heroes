@@ -48,7 +48,7 @@ To make our dataset suitable for analysis, we need to clean and transform datase
 
 ## Recommendation
 
- **Segmentation Analysis**: this helps understand the characteristics and behaviors of churned customers, that were Grouped based on various attributes such as credit score ranges, tenure with the bank, geographical locations, demographics. A predictive model was developed to forecast customers that likely churned and the reason why they churned. customers with low credit score, short stay tenure with the bank, diatance from the bank churned more. other features that influence customer churn are age_grade, gender, and class. After understanding customer behaviour the following ideas are recommended:
+ **Segmentation Analysis**: this helps understand the characteristics and behaviors of churned customers, that were Grouped based on various attributes such as credit score ranges, tenure with the bank, geographical locations, demographics. A predictive model was developed to forecast customers that likely churned and the reason why they churned. customers with low credit score, short stay tenure with the bank, diatance from the bank churned more. other features that influence customer churn are age_grade, gender, and social class. After understanding customer behaviour the following ideas are recommended:
 
  **Credit Score Improvement Programs**: Collaborate with the bank's credit department to design programs aimed at improving customers' credit scores. Provide personalized financial advice, credit education materials, and incentives for credit score improvement.
 
